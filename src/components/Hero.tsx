@@ -17,7 +17,7 @@ const Hero = () => {
           <div className="mb-8 flex justify-center">
             <div className="w-48 h-48 bg-gradient-to-br from-blue-500 to-teal-500 rounded-full p-1 shadow-2xl">
               <img
-                src="src\public\image.jpg"
+                src="/image.jpg"
                 alt="Mohit Rathee"
                 className="w-full h-full object-cover rounded-full"
               />
